@@ -9,7 +9,7 @@ Movie API is a RESTful service for managing **Movies**, **Genres**, and **Actors
 ## Quick Start
 
 **Requirements:**  
-- Java 17+  
+- Java 17  
 - Maven 3.9+  
 
 **Clone and run the project:**
